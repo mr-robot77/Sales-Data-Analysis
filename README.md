@@ -48,10 +48,47 @@ Below is a file structure of this project:
 
 ![Alt text](images/Sales_ERD.png)
 
+-----------------------------------------------------------------------------------
+### Part 4: Power BI Dashboard
+
+#### Introduction
+In this section we explore the process of integrating a database containing Sales data into Power BI, designing a Star Schema for data modeling, and creating analytical reports and visualizations to gain insights into the Network Products data.
+
+#### Step 1: Database Integration
+* Data Source
+    * Ensure that you have the necessary credentials and permissions to access the database.
+* Data Loading
+    * Import data from the database into Power BI. You can use various methods, such as connecting directly to the database, importing CSV files, or using other data connectors.
+#### Step 2: Data Modeling with Star Schema
+- Understanding the Star Schema
+    * Design a star schema data model. In a star schema, data is organized into fact tables and dimension tables.
+- Fact Table
+    * Create a fact table that contains transaction-level data. 
+- Dimension Tables
+    * Design dimension tables that provide context to the fact table. 
+- Relationships
+    * Establish relationships between the fact table and dimension tables. These relationships enable you to slice and dice data efficiently.
+- Data Transformation
+    * Apply necessary data transformations within Power BI, such as data cleansing, aggregation, and calculated columns, to prepare the data for analysis.
+
+![Alt text](images/Relationships.PNG)
+
+#### Step 3: Creating Analytical Reports
+- Data Exploration
+    * Start exploring the data using Power BI's data exploration capabilities. Use filters, slicers, and drill-through options to gain insights into the dataset.
+- Visualization
+    * Create a variety of visualizations to represent Sales data effectively. Common visualizations include line charts and more.
+
+#### Step 4: Dashboard Creation
+- Building Dashboards
+    * Combine visualizations into interactive dashboards. Dashboards provide an overview of Network Products Sales data and allow users to interact with the data dynamically.
+
+Conclusion
+By integrating Our Sales data into Power BI, designing a Star Schema, and creating insightful reports and dashboards, you can harness the power of data analytics to make informed decisions in the Network Products Sales data.
+
+
 ![Alt text](images/Sales.PNG)
 
 ![Alt text](images/Geo.PNG)
 
 ![Alt text](images/Stats.PNG)
-
-![Alt text](images/Relationships.PNG)
