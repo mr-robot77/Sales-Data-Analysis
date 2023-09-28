@@ -48,6 +48,8 @@ Below is a file structure of this project:
 
 ![Alt text](images/Sales_ERD.png)
 
+![Alt text](images/Sales-Speed-Service.png)
+
 -----------------------------------------------------------------------------------
 ### Part 4: Power BI Dashboard
 
