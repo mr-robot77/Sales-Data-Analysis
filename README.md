@@ -53,7 +53,7 @@ Below is a file structure of this project:
 ### Part 3: Visualization & Prediction with Machine Learning
 ![Alt text](images/Sales-Speed-Service.png)
 
-![](images/Price_distribution.png)
+![](images/Sales_distribution.png)
 
 ![](images/test_prediction.png)
 
