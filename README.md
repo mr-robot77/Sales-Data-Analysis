@@ -45,10 +45,33 @@ Below is a file structure of this project:
     └── requirements.txt
 ```
 
-
+-----------------------------------------------------------------------------------
+### Part 1: Create Database With MySQL
 ![Alt text](images/Sales_ERD.png)
 
+-----------------------------------------------------------------------------------
+### Part 3: Visualization & Prediction with Machine Learning
 ![Alt text](images/Sales-Speed-Service.png)
+
+![](images/Price_distribution.png)
+
+![](images/test_prediction.png)
+
+![](images/forecast_10days.png)
+
+![](images/sales_difference.png)
+
+![](images/seasonal_difference.png)
+
+![](images/autocorrelation.png)
+
+![](images/auto_correlation.png)
+
+![](images/forecast_backtest.png)
+
+![](images/seasonal_forecast_backtest.png)
+
+![](images/forecast_next10days.png)
 
 -----------------------------------------------------------------------------------
 ### Part 4: Power BI Dashboard
