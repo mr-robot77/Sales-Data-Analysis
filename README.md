@@ -73,6 +73,9 @@ Below is a file structure of this project:
 
 ![](images/forecast_next10days.png)
 
+- Future TO-DO:
+- add Machine Learning Model and analysis for Prediction such as LSTM,...
+
 -----------------------------------------------------------------------------------
 ### Part 4: Power BI Dashboard
 
