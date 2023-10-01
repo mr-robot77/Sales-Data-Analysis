@@ -51,6 +51,9 @@ Below is a file structure of this project:
 
 -----------------------------------------------------------------------------------
 ### Part 3: Visualization & Prediction with Machine Learning
+
+- Prediction with Statistical Time Series Analysis Model (ARIMA):
+
 ![Alt text](images/Sales-Speed-Service.png)
 
 ![](images/Sales_distribution.png)
